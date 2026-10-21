@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "environments": [
+    {
+      "id": "atardecer_mar",
+      "name": "Atardecer en el mar",
+      "file": "atardecer_mar.jpg",
+      "sha256": "716cd8ceb9351ae420c8832405924825e2904ad02a5ef77239655fbadd7ad655",
+      "size": 69040,
+      "category": "sky",
+      "author": "NebularVR",
+      "license": "CC0 (propio)",
+      "sun": "#ffd9a8",
+      "energy": 0.7
+    },
+    {
+      "id": "aurora_boreal",
+      "name": "Aurora boreal",
+      "file": "aurora_boreal.jpg",
+      "sha256": "82a6da868ce5072d6aef288e901796c5e1a5877352f475c27f982bf60c5cfb65",
+      "size": 156388,
+      "category": "nature",
+      "author": "NebularVR",
+      "license": "CC0 (propio)",
+      "sun": "#9fe8ff",
+      "energy": 0.35
+    },
+    {
+      "id": "ciudad_neon",
+      "name": "Ciudad Neón (anime nocturno)",
+      "file": "ciudad_neon.jpg",
+      "sha256": "e79cfc08b57d94e4277eff4b51cc80271bda5555910aa0ed85063336f772442d",
+      "size": 158494,
+      "category": "anime",
+      "author": "NebularVR",
+      "license": "CC0 (propio)",
+      "sun": "#ff9ad0",
+      "energy": 0.5
+    },
+    {
+      "id": "mundo_cubos",
+      "name": "Mundo de cubos",
+      "file": "mundo_cubos.jpg",
+      "sha256": "d7d58ad51e11ade58e66941c5fccdb1dd15149840b828f94914c1b14f9eb35d7",
+      "size": 97893,
+      "category": "cartoon",
+      "author": "NebularVR",
+      "license": "CC0 (propio)",
+      "sun": "#fff7d6",
+      "energy": 1.0
+    }
+  ]
+}
